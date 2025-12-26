@@ -1,0 +1,23 @@
+duracrete
+the most common alternative to concrete
+
+durasteel
+the most common alternative to steel
+
+plastoid
+used for the armour of the GAR and Imperial troopers and Darth Vader suit
+
+holocron
+a datacron that can only be accessed by Force-users
+
+vibroweapon
+a bladed weapon with a vibrogenerator in the hilt to produce high-speed vibrations that allow the blade to cut much more effectively
+
+datacron
+a small, polygonal data storage device, mainly used for encrypted data
+
+vibrogenerator
+a compact piece of technology that generated vibrations along the cutting edge's surface of a weapon
+
+trooper
+soldiers who served in the Galactic Empire

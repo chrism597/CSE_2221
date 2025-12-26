@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feeds title="Top Stories">
+    <feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss"
+        name="NASA Breaking News" file="nasa.html" />
+    <feed url="https://feeds.arstechnica.com/arstechnica/index.rss"
+        name="Ars Technica" file="ars.html" />
+    <feed url="https://news.google.com/news?q=Ohio+State&amp;output=rss"
+        name="Google News (re Ohio State)" file="google-osu.html" />
+    <feed url="https://pcmag.com/feeds/rss/latest"
+        name="PC Magazine" file="pcmag.html" />
+</feeds>
